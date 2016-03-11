@@ -4,6 +4,7 @@
 Clone your docs like below:
 
 > cd /var/peachdoc/
+> 
 > git clone https://github.com/peachdocs/peach.peach.git custom
 
 Start a new container:
